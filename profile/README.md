@@ -14,4 +14,4 @@ We are hoping to provide support to that gap.
 
 Playing ancient versions of Minecraft is not currently ideal. With patches, proxies and more layers of fixes, we hope to provide an all-in-one solution to fill that gap.
 
-https://loop.worldwidepixel.ca
+[Loop MC Website](https://www.loopmc.org)
